@@ -259,19 +259,7 @@ GenerateClassCluster=0
 DocumentUniqueId=VFWRVFAW
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs\Assembly\BOM-Grouped_Einsy Rambo_0.6a.xlsx
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for Einsy_Rambo_0.5a\Design Rule Check - EinsyRetro.html
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs\Assembly\Pick and Place_Einsy Rambo_0.6a.csv
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs\Assembly\tab_bom_Einsy Rambo_0.6a.txt
 DItemRevisionGUID=
 
 [SearchPath1]
@@ -279,20 +267,20 @@ Path=*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=ProjectTitle
-Value=EinsyRetro
+Name=projectBoardRevision
+Value=a
 
 [Parameter2]
-Name=ProjectDesigner
-Value=AWS
-
-[Parameter3]
 Name=projectBoardVersion
 Value=1.0
 
+[Parameter3]
+Name=ProjectDesigner
+Value=AWS
+
 [Parameter4]
-Name=projectBoardRevision
-Value=a
+Name=ProjectTitle
+Value=EinsyRetro
 
 [Configuration1]
 Name=Default Configuration
