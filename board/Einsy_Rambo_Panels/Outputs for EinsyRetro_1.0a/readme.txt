@@ -11,8 +11,8 @@ P.C.B material         RoHS TG170
 Finished Copper        2oz, 1oz (See Stackup)
 Finish                 ENIG (Gold) (Lead free) (RoHS)
 Mask type              See special requirement below
-Mask color             Orange -See special requirement below
-Silk screen color      Black -See special requirement below
+Mask color             Green
+Silk screen color      White
 Silk screen Sides      BOTH 
 Min trace width        0.006"
 Min clearance          0.008"
