@@ -259,10 +259,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=VFWRVFAW
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for Einsy_Rambo_0.5a\Design Rule Check - EinsyRetro.html
-DItemRevisionGUID=
-
 [SearchPath1]
 Path=*.*
 IncludeSubFolders=1
