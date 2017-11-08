@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------------------------------------------
-NCDrill File Report For: Einsy_Rambo_Panel.PcbDoc   11/7/2017  9:19:46 PM
+NCDrill File Report For: Einsy_Rambo_Panel.PcbDoc   11/8/2017  1:36:15 PM
 ----------------------------------------------------------------------------------------------------------------------------------
 
 Layer Pair : Top to Bottom
@@ -7,10 +7,10 @@ ASCII RoundHoles File : Einsy_Rambo_Panel.TXT
 
 Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
 ----------------------------------------------------------------------------------------------------------------------------------
-T1      10mil (0.254mm)                                           Round             1824      PTH        211.37inch (5368.92mm)
-T2      15mil (0.381mm)                                           Round             915       PTH        136.06inch (3455.83mm)
-T3      35mil (0.899mm)                                           Round             90        PTH        16.12inch (409.46mm)
-T4      38mil (0.965mm)                                           Round             30        PTH        7.96inch (202.09mm)
+T1      10mil (0.254mm)                                           Round             1824      PTH        211.42inch (5370.01mm)
+T2      15mil (0.381mm)                                           Round             915       PTH        139.03inch (3531.42mm)
+T3      35mil (0.899mm)                                           Round             90        PTH        17.29inch (439.28mm)
+T4      38mil (0.965mm)                                           Round             30        PTH        7.92inch (201.24mm)
 T5      40mil (1.016mm)                                           Round             159       PTH        39.17inch (994.88mm)
 T6      55mil (1.397mm)                                           Round             6         PTH        6.20inch (157.44mm)
 T7      59mil (1.499mm)                                           Round             6         PTH        5.87inch (149.21mm)
@@ -21,4 +21,4 @@ T11     118mil (3mm)                                              Round         
 ----------------------------------------------------------------------------------------------------------------------------------
 Totals                                                                              3106
 
-Total Processing Time (hh:mm:ss) : 00:00:07
+Total Processing Time (hh:mm:ss) : 00:00:01
