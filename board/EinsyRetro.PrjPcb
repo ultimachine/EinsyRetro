@@ -264,20 +264,20 @@ Path=*.*
 IncludeSubFolders=1
 
 [Parameter1]
-Name=projectBoardRevision
-Value=a
+Name=ProjectTitle
+Value=EinsyRetro
 
 [Parameter2]
-Name=projectBoardVersion
-Value=1.0
-
-[Parameter3]
 Name=ProjectDesigner
 Value=AWS
 
+[Parameter3]
+Name=projectBoardVersion
+Value=1.0
+
 [Parameter4]
-Name=ProjectTitle
-Value=EinsyRetro
+Name=projectBoardRevision
+Value=b
 
 [Configuration1]
 Name=Default Configuration
