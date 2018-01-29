@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: EinsyRetro.PcbDoc   1/29/2018  12:40:17 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : EinsyRetro_1.0b.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.254mm (10mil)                                           Round             612       PTH        1808.40mm (71.20inch)
+T2      0.381mm (15mil)                                           Round             305       PTH        1135.55mm (44.71inch)
+T3      0.9mm (35mil)                                             Round             30        PTH        91.26mm (3.59inch)
+T4      0.965mm (38mil)                                           Round             10        PTH        34.55mm (1.36inch)
+T5      1.016mm (40mil)                                           Round             53        PTH        348.04mm (13.70inch)
+T6      1.397mm (55mil)                                           Round             2         PTH        5.08mm (0.20inch)
+T7      1.499mm (59mil)                                           Round             2         PTH        7.01mm (0.28inch)
+T8      1.524mm (60mil)                                           Round             6         PTH        41.28mm (1.63inch)
+T9      1.6mm (63mil)                                             Round             12        PTH        69.64mm (2.74inch)
+T10     2.21mm (87mil)                                            Round             2         PTH        12.02mm (0.47inch)
+T11     3mm (118mil)                                              Round             4         NPTH       302.90mm (11.93inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1038
+
+Total Processing Time (hh:mm:ss) : 00:00:01

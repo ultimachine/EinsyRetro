@@ -1,0 +1,10 @@
+Output: BOM-Grouped
+Type  : BOM
+From  : Project [EinsyRetro.PrjPcb]
+   Generated File[BOM-Grouped_EinsyRetro_1.0c.xlsx]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 1:15:56 PM On 1/29/2018
