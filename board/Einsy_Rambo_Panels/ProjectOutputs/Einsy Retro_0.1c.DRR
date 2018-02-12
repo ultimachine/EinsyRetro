@@ -1,0 +1,24 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: EinsyRetroPanel.PcbDoc   2/12/2018  2:50:24 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top to Bottom
+ASCII RoundHoles File : Einsy Retro_0.1c.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      10mil (0.254mm)                                           Round             1875      PTH        212.75inch (5403.75mm)
+T2      15mil (0.381mm)                                           Round             906       PTH        133.77inch (3397.81mm)
+T3      35mil (0.899mm)                                           Round             90        PTH        17.29inch (439.28mm)
+T4      38mil (0.965mm)                                           Round             48        PTH        12.41inch (315.25mm)
+T5      40mil (1.016mm)                                           Round             159       PTH        39.17inch (994.88mm)
+T6      55mil (1.397mm)                                           Round             6         PTH        6.20inch (157.44mm)
+T7      59mil (1.499mm)                                           Round             6         PTH        5.87inch (149.21mm)
+T8      60mil (1.524mm)                                           Round             18        PTH        7.22inch (183.48mm)
+T9      63mil (1.6mm)                                             Round             36        PTH        10.71inch (271.94mm)
+T10     87mil (2.21mm)                                            Round             6         PTH        6.07inch (154.22mm)
+T11     118mil (3mm)                                              Round             16        NPTH       32.91inch (835.99mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              3166
+
+Total Processing Time (hh:mm:ss) : 00:00:03
