@@ -1,10 +1,10 @@
 Output: Report Board Stack
 Type  : Report Board Stack
 From  : PCB Document [EinsyRetro.PcbDoc]
-   Generated File[EinsyRetro_1.0c.xls]
+   Generated File[EinsyRetro_1.0a.xls]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 1:15:06 PM On 1/29/2018
+Finished Output Generation At 2:04:45 PM On 2/27/2018

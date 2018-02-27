@@ -261,24 +261,124 @@ DocumentPath=Outputs for EinsyRetro_1.0b\Einsy_Rambo_Panel.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Outputs for EinsyRetro_1.0a\Pick Place for Einsy_Rambo_Panel.csv
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Outputs for EinsyRetro_1.0b\Pick Place for Einsy_Rambo_Panel.csv
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Outputs for EinsyRetro_1.0a\Pick Place for Einsy_Rambo_Panel.txt
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.G1
 DItemRevisionGUID=
 
 [GeneratedDocument51]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.G2
+DItemRevisionGUID=
+
+[GeneratedDocument52]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.G3
+DItemRevisionGUID=
+
+[GeneratedDocument53]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument54]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument55]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument56]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GD1
+DItemRevisionGUID=
+
+[GeneratedDocument57]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument58]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GM2
+DItemRevisionGUID=
+
+[GeneratedDocument59]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GM29
+DItemRevisionGUID=
+
+[GeneratedDocument60]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GM30
+DItemRevisionGUID=
+
+[GeneratedDocument61]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GM31
+DItemRevisionGUID=
+
+[GeneratedDocument62]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GM32
+DItemRevisionGUID=
+
+[GeneratedDocument63]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument64]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument65]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument66]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument67]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument68]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument69]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.REP
+DItemRevisionGUID=
+
+[GeneratedDocument70]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument71]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument72]
+DocumentPath=ProjectOutputs\Einsy Retro_0.1c.xls
+DItemRevisionGUID=
+
+[GeneratedDocument73]
+DocumentPath=Outputs for EinsyRetro_1.0a\Pick Place for Einsy_Rambo_Panel.csv
+DItemRevisionGUID=
+
+[GeneratedDocument74]
+DocumentPath=Outputs for EinsyRetro_1.0b\Pick Place for Einsy_Rambo_Panel.csv
+DItemRevisionGUID=
+
+[GeneratedDocument75]
+DocumentPath=Outputs for EinsyRetro_1.0a\Pick Place for Einsy_Rambo_Panel.txt
+DItemRevisionGUID=
+
+[GeneratedDocument76]
 DocumentPath=Outputs for EinsyRetro_1.0b\Pick Place for Einsy_Rambo_Panel.txt
 DItemRevisionGUID=
 
 [Parameter1]
 Name=projectVersion
-Value=0.1c
+Value=1.0a
 
 [Parameter2]
 Name=ProjectTitle
@@ -1012,46 +1112,6 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=Ansoft Neutral
-OutputName10=Ansoft Neutral (AutoPCB)
-OutputDocumentPath10=
-OutputVariantName10=
-OutputDefault10=0
-OutputType11=HyperLynx
-OutputName11=HyperLynx (AutoPCB)
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-OutputType12=Orcad SDT Schematic
-OutputName12=Orcad SDT Schematic (AutoSCH)
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
-OutputType13=Orcad v7 Capture Design
-OutputName13=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-OutputType14=P-CAD ASCII
-OutputName14=P-CAD ASCII (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=P-CAD V16 Schematic Design
-OutputName15=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=Protel PCB 2.8 ASCII
-OutputName16=Protel PCB 2.8 ASCII (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=SiSoft
-OutputName17=SiSoft (AutoPCB)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
