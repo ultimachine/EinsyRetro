@@ -1,12 +1,12 @@
 Altium Designer Pick and Place Locations
-C:\Users\Johnny-x-9c\Documents\Projects\EinsyRetro\board\Project Outputs\Assembly\Pick and Place_EinsyRetro_1.0a.csv
+C:\Users\Johnny\Documents\Projects\EinsyRetro\board\Project Outputs\Assembly\Pick and Place_EinsyRetro_1.0a.csv
 
 ========================================================================================================================
 File Design Information:
 
-Date:       27/02/18
-Time:       14:05
-Revision:   Not in VersionControl
+Date:       27/08/18
+Time:       14:27
+Revision:   2662f09c4a46d81f6bb16b69db1e728578ceee4b
 Variant:    No variations
 Units used: mm
 
@@ -69,11 +69,11 @@ Units used: mm
 "J15","Molex 70543-03","TopLayer","70543-03","35.0064","66.0064","180","3 Positions Header, Shrouded Connector 0.100" (2.54mm) Through Hole Gold","35.0064","66.0064"
 "J14","Molex 70543-03","TopLayer","70543-03","24.5064","66.0064","180","3 Positions Header, Shrouded Connector 0.100" (2.54mm) Through Hole Gold","24.5064","66.0064"
 "J13","Molex 70543-03","TopLayer","70543-03","14.0064","66.0064","180","3 Positions Header, Shrouded Connector 0.100" (2.54mm) Through Hole Gold","14.0064","66.0064"
-"J12","Molex 0705430003","TopLayer","4POL254","55.0184","3.0136","180","Molex 4 Pin Clip Connector","55.0184","3.0136"
-"J11","Molex 0705430003","TopLayer","4POL254","42.0084","3.0036","180","Molex 4 Pin Clip Connector","42.0084","3.0036"
-"J10","Molex 0705430003","TopLayer","4POL254","42.0084","10.0036","180","Molex 4 Pin Clip Connector","42.0084","10.0036"
-"J9","Molex 0705430003","TopLayer","4POL254","29.0084","3.0036","180","Molex 4 Pin Clip Connector","29.0084","3.0036"
-"J8","Molex 0705430003","TopLayer","4POL254","16.0084","3.0036","180","Molex 4 Pin Clip Connector","16.0084","3.0036"
+"J12","Molex 0705430003","TopLayer","4POL254_PIN-IN-PASTE","55.0184","3.0136","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","55.0184","3.0136"
+"J11","Molex 0705430003","TopLayer","4POL254_PIN-IN-PASTE","42.0084","3.0036","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","42.0084","3.0036"
+"J10","Molex 0705430003","TopLayer","4POL254_PIN-IN-PASTE","42.0084","10.0036","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","42.0084","10.0036"
+"J9","Molex 0705430003","TopLayer","4POL254_PIN-IN-PASTE","29.0084","3.0036","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","29.0084","3.0036"
+"J8","Molex 0705430003","TopLayer","4POL254_PIN-IN-PASTE","16.0084","3.0036","180","Molex 4 Pin Clip Connector - Pin In Paste footprint","16.0084","3.0036"
 "J6","CONN 2PIN VERT 0.1" SHRD LOCKING","TopLayer","70543-02","60.1064","29.6064","270","Connector 2pos","60.1064","29.6064"
 "J5","Molex 70543-03","TopLayer","70543-03","66.2686","33.6042","90","3 Positions Header, Shrouded Connector 0.100" (2.54mm) Through Hole Gold","66.2686","33.6042"
 "J4","Molex 70543-03","TopLayer","70543-03","66.2940","44.1198","90","3 Positions Header, Shrouded Connector 0.100" (2.54mm) Through Hole Gold","66.2940","44.1198"

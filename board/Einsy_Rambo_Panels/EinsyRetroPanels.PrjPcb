@@ -31,7 +31,6 @@ FSMEncodingStyle=eFMSDropDownList_OneHot
 OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
-LinkedManagedProjectGUID=
 IncludeDesignInRelease=0
 
 [Preferences]
@@ -261,103 +260,103 @@ DocumentPath=Outputs for EinsyRetro_1.0b\Einsy_Rambo_Panel.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.DRR
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.EXTREP
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.G1
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.G1
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.G2
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.G2
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.G3
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.G3
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GBL
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GBO
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GBS
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GD1
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GM1
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GM1
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GM2
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GM2
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GM29
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GM29
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GM30
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GM30
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GM31
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GM31
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GM32
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GM32
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GP1
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GTL
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GTO
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GTP
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.GTS
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.LDP
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.REP
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.REP
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.RUL
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.TXT
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=ProjectOutputs\Einsy Retro_0.1c.xls
+DocumentPath=ProjectOutputs\Einsy Retro_1.0a.xls
 DItemRevisionGUID=
 
 [GeneratedDocument73]
@@ -377,16 +376,16 @@ DocumentPath=Outputs for EinsyRetro_1.0b\Pick Place for Einsy_Rambo_Panel.txt
 DItemRevisionGUID=
 
 [Parameter1]
-Name=projectVersion
-Value=1.0a
+Name=ProjectDesigner
+Value=UltiMachine
 
 [Parameter2]
 Name=ProjectTitle
 Value=Einsy Retro
 
 [Parameter3]
-Name=ProjectDesigner
-Value=UltiMachine
+Name=projectVersion
+Value=1.0a
 
 [Configuration1]
 Name=Default Configuration
@@ -508,16 +507,6 @@ OutputName21=WireList Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=Verilog
-OutputName22=Verilog File
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=VHDL
-OutputName23=VHDL File
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -583,78 +572,18 @@ OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType9=Wave Print
-OutputName9=Wave Prints
+OutputType9=PCBDrawing
+OutputName9=Draftsman
 OutputDocumentPath9=
-OutputVariantName9=
+OutputVariantName9=[No Variations]
 OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType10=WaveSim Print
-OutputName10=WaveSim Prints
+PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+OutputType10=PDF3D
+OutputName10=PDF3D
 OutputDocumentPath10=
-OutputVariantName10=
+OutputVariantName10=[No Variations]
 OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-4|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType11=PCBDrawing
-OutputName11=Draftsman
-OutputDocumentPath11=
-OutputVariantName11=[No Variations]
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType12=PDF3D
-OutputName12=PDF3D
-OutputDocumentPath12=
-OutputVariantName12=[No Variations]
-OutputDefault12=0
-PageOptions12=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType13=Assembler Source Print
-OutputName13=Assembler Source Prints
-OutputDocumentPath13=
-OutputVariantName13=
-OutputDefault13=0
-PageOptions13=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType14=C Source Print
-OutputName14=C Source Prints
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-PageOptions14=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType15=C/C++ Header Print
-OutputName15=C/C++ Header Prints
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-PageOptions15=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType16=C++ Source Print
-OutputName16=C++ Source Prints
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-PageOptions16=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType17=FSM Print
-OutputName17=FSM Prints
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-PageOptions17=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType18=Logic Analyser Print
-OutputName18=Logic Analyser Prints
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-PageOptions18=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType19=OpenBus Print
-OutputName19=OpenBus Prints
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
-PageOptions19=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
-OutputType20=VHDL Print
-OutputName20=VHDL Prints
-OutputDocumentPath20=
-OutputVariantName20=
-OutputDefault20=0
-PageOptions20=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
+PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=Letter|PaperIndex=1
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -1112,6 +1041,36 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad v7 Capture Design
+OutputName12=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=P-CAD ASCII
+OutputName13=P-CAD ASCII (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD V16 Schematic Design
+OutputName14=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=SiSoft
+OutputName15=SiSoft (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1215,6 +1174,32 @@ Type87=1
 Type88=1
 Type89=1
 Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
+Type96=1
+Type97=1
+Type98=1
+Type99=1
+Type100=1
+Type101=1
+Type102=1
+Type103=1
+Type104=1
+Type105=1
+Type106=1
+Type107=1
+Type108=1
+Type109=1
+Type110=1
+Type111=1
+Type112=1
+Type113=1
+Type114=1
+Type115=1
+Type116=1
 
 [Difference Levels]
 Type1=1
@@ -1266,6 +1251,22 @@ Type46=1
 Type47=1
 Type48=1
 Type49=1
+Type50=1
+Type51=1
+Type52=1
+Type53=1
+Type54=1
+Type55=1
+Type56=1
+Type57=1
+Type58=1
+Type59=1
+Type60=1
+Type61=1
+Type62=1
+Type63=1
+Type64=1
+Type65=1
 
 [Electrical Rules Check]
 Type1=1
@@ -1381,6 +1382,15 @@ Type110=1
 Type111=1
 Type112=1
 Type113=1
+Type114=2
+Type115=2
+Type116=2
+Type117=3
+Type118=3
+Type119=3
+MultiChannelAlternate=2
+AlternateItemFail=3
+Type122=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW
